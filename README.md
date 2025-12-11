@@ -1,2 +1,2 @@
-- Hi there, I’m Haiquan Lu, a PhD Student@<a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, NUS.
+- Hi there, I’m Haiquan Lu, a PhD Student@<a href="https://sites.google.com/view/xml-nus/home" target="_blank">xML-Lab</a>, NUS.
 - How to reach me: haiquanlu@u.nus.edu. Previous @NKU @Dartmouth @UC Berkeley.
